@@ -1,4 +1,4 @@
-# 🔎 StartupSpy
+# StartupSpy
 
 > A modern Windows startup manager built with C# and WPF (.NET 8)
 
@@ -11,7 +11,7 @@ StartupSpy is a sleek, dark-themed Windows desktop application that scans and di
 
 ---
 
-## 📸 Features
+## Features
 
 - **Full startup scan** across all 4 sources:
   - `HKLM` and `HKCU` Registry Run keys
@@ -27,7 +27,7 @@ StartupSpy is a sleek, dark-themed Windows desktop application that scans and di
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ The output will be a single `.exe` in `bin/Release/net8.0-windows/win-x64/publis
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 ```
 StartupSpy/
@@ -76,7 +76,7 @@ StartupSpy/
 
 ---
 
-## 🔬 Risk Assessment Logic
+## Risk Assessment Logic
 
 | Level   | Criteria                                              |
 |---------|-------------------------------------------------------|
@@ -88,7 +88,7 @@ StartupSpy/
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -101,7 +101,7 @@ StartupSpy/
 
 ---
 
-## 📋 Roadmap
+## Roadmap
 
 - [ ] Export report to CSV or HTML
 - [ ] Startup impact score (boot delay estimate)
@@ -110,6 +110,6 @@ StartupSpy/
 
 ---
 
-## 📄 License
+## License
 
 MIT — feel free to use, modify, and distribute.
