@@ -1,4 +1,4 @@
-# ⚡ StartupSpy
+# 🔎 StartupSpy
 
 > A modern Windows startup manager built with C# and WPF (.NET 8)
 
