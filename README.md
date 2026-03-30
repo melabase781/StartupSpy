@@ -32,7 +32,7 @@ StartupSpy is a sleek, dark-themed Windows desktop application that scans and di
 ### Prerequisites
 
 - Windows 10/11
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8)
+- [.NET 8 SDK]([https://dotnet.microsoft.com/download/dotnet/8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0))
 - Visual Studio 2022 (Community edition is free)
 
 ### Build & Run
