@@ -7,7 +7,7 @@
 ![Language](https://img.shields.io/badge/language-C%23-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-StartupSpy is a sleek, dark-themed Windows desktop application that scans and displays everything that launches at startup — registry entries, startup folders, scheduled tasks, and services — with colour-coded risk assessment.
+StartupSpy is a sleek, dark-themed Windows desktop application that scans and displays everything that launches at startup, registry entries, startup folders, scheduled tasks, and services with colour-coded risk assessment.
 
 ---
 
@@ -103,7 +103,6 @@ StartupSpy/
 
 ## 📋 Roadmap
 
-- [ ] Enable / disable entries directly from the UI
 - [ ] Export report to CSV or HTML
 - [ ] Startup impact score (boot delay estimate)
 - [ ] System tray with background monitoring
