@@ -10,6 +10,7 @@
 StartupSpy is a sleek, dark-themed Windows desktop application that scans and displays everything that launches at startup, registry entries, startup folders, scheduled tasks, and services with colour-coded risk assessment.
 
 ---
+![StartupSpy Screenshot](assets/screenshot.png)
 
 ## Features
 
